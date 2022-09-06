@@ -1,0 +1,110 @@
+.navbar-brand {
+    font-size: 30px;
+    font-weight: 700;
+    font-style: Gill Sans, sans-serif;
+}
+
+.hero-text, .about #bg-img {
+    background-image: url('./Images/i5.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    max-width: 100%;
+    height: 600px;
+    align-self: center;
+
+}
+
+ .container-fluid {
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.collapse {
+    font-size: 15px;
+}
+
+.nav-link {
+    margin-left: 20px;
+}
+
+.Login {
+    font-weight: 700;
+    text-decoration: none;
+}
+
+.middle {
+    padding: 30px;
+    background-color: lightgreen;
+}
+
+.card {
+    margin: 10px;
+}
+
+.col {
+    margin: 30px 0px;
+}
+
+
+.hero-text form{
+    text-align: center;
+    position: absolute;
+    /* top: 40%; */
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: rgb(0, 0, 0);
+    margin-top: 3em;
+}
+
+.heading {
+    font-size: 60px;
+    font-family: "Times New Roman", Times, serif;
+    justify-content: center;
+    text-align: center;
+}
+
+.heading1 {
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+    justify-content: center;
+    text-align: center;
+}
+
+
+.footer {
+    border: 5px solid rgb(13, 108, 0);
+}
+
+#infoot {
+    border: 3px solid rgb(13, 108, 0);
+}
+
+.card-footer {
+    border: 1px solid rgb(0, 0, 0);
+    background-color: lightgreen;
+}
+
+.link {
+    color: white;
+}
+
+.link:hover {
+    color: yellow;
+    text-decoration: none;
+
+}
+
+.hero-about {
+    background-color: lightgreen;
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    margin-top: 5vh;
+    border: 2px solid darkgreen;
+    border-radius: 30px;
+    
+} 
